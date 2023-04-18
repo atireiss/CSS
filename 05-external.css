@@ -1,0 +1,19 @@
+
+
+p{
+    color: red;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1{
+    color: green;
+    text-align: center;
+}
+
+a{
+    font-size: 22px;
+    text-decoration: none; /* linklerin altindaki cizgiyi yok ettik */
+}
+
+
